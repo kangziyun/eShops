@@ -1,0 +1,14 @@
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\bin\Debug\netcoreapp2.1\eShops.Messaging.deps.json
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\bin\Debug\netcoreapp2.1\eShops.Messaging.runtimeconfig.json
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\bin\Debug\netcoreapp2.1\eShops.Messaging.runtimeconfig.dev.json
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\bin\Debug\netcoreapp2.1\eShops.Messaging.dll
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\bin\Debug\netcoreapp2.1\eShops.Messaging.pdb
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.RazorAssemblyInfo.cache
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.RazorAssemblyInfo.cs
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.AssemblyInfoInputs.cache
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.AssemblyInfo.cs
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.RazorTargetAssemblyInfo.cache
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.dll
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.pdb
+C:\Users\V8170177\Source\repos\eShops\eShops.Messaging\obj\Debug\netcoreapp2.1\eShops.Messaging.csprojAssemblyReference.cache
